@@ -1,5 +1,8 @@
-# Larry Plotter
+En este repositorio se encuentran todas las prácticas del curso del IFAB: Processing 2021.
 
-Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
+* Página oficial de [Processing](https://processing.org)
 
-**Fernando Cordon**, profesor de Processing y de iOS.
+* Desde aquí podéis acceder a los [Videos de clase](https://vimeopro.com/user37418220/processing-git).  
+
+**Fernando Cordon**, profesor de Git, IOs y Processing
+>>>>>>> Stashed changes
